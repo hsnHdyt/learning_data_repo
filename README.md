@@ -1,4 +1,4 @@
-# Data Learning Repository
+# Personal Data Learning Repository
 My personal repository for data learning (data exploration, data visualisation, machine learning, and more).
 
 ## Log
