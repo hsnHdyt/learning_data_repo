@@ -3,5 +3,5 @@ My personal repository for data learning (data exploration, data visualisation, 
 
 ## Log
 [June, 08 2022]
-* Add worldcities.csv and uscities.csv dataset for SQL Learning
+* Add `worldcities.csv` and `uscities.csv` dataset for SQL Learning
 
